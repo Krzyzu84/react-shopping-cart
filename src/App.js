@@ -4,7 +4,6 @@ import Filter from "./components/Filter";
 import Cart from "./components/Cart";
 import store from "./store";
 import { Provider } from "react-redux";
-
 class App extends React.Component {
   render() {
     return (
